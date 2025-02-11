@@ -1,0 +1,33 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>included.alhambra.247.ymap</Item>
+    <Item>included.alhambra.firestation.withcars.ymap</Item>
+    <Item>included.alhambra.food-circle.withcars.ymap</Item>
+    <Item>included.eastjoshua-alhambra.cacti.ymap</Item>
+    <Item>included.eastjoshua-alhambra.trees.ymap</Item>
+    <Item>included.sandy.air-field.ymap</Item>
+    <Item>included.sandy.phoneboxes.ymap</Item>
+    <Item>included.sandy.signs.ymap</Item>
+    <Item>included.streetlights.ymap</Item>
+    <Item>included.yellowjack.morecars.ymap</Item>
+    <Item>optional.alamosea.boats.ymap</Item>
+    <Item>optional.algonquin-blvd-end-fences.ymap</Item>
+    <Item>optional.ammu-nation.morecars.ymap</Item>
+    <Item>optional.cars-behind.alhambra.247.ymap</Item>
+    <Item>optional.cars-spawn-at-the-marina-drive-liquor-store.ymap</Item>
+    <Item>optional.more-trees-on-algonquin-blvd.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames />
+  <YbnFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames />
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames />
+</CodeWalkerProject>
