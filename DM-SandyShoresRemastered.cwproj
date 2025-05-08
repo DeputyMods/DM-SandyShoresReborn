@@ -10,7 +10,6 @@
     <Item>included.sandy.air-field.ymap</Item>
     <Item>included.sandy.billboards.ymap</Item>
     <Item>included.sandy.phoneboxes.ymap</Item>
-    <Item>included.sandy.r68.motel.ymap</Item>
     <Item>included.sandy.signs.ymap</Item>
     <Item>included.sandy.stopsigns.ymap</Item>
     <Item>included.sandy.trafficlights.ymap</Item>
@@ -23,12 +22,14 @@
     <Item>optional.cars-spawn-at-the-marina-drive-liquor-store.ymap</Item>
     <Item>optional.more-trees-on-algonquin-blvd.ymap</Item>
     <Item>optional.sandy.cacti.ymap</Item>
+    <Item>map1.ymap</Item>
   </YmapFilenames>
   <YtypFilenames />
   <YbnFilenames />
   <YndFilenames>
     <Item>nodes723.ynd</Item>
     <Item>nodes755.ynd</Item>
+    <Item>nodes756.ynd</Item>
   </YndFilenames>
   <YnvFilenames />
   <TrainsFilenames />
